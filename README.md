@@ -12,11 +12,16 @@ Detail-oriented and reliable Virtual Assistant and Customer Support Specialist. 
 - Professional handling of customer inquiries and complaints.
 - Clear, empathetic written and verbal communication in English.
 - Drafting response templates and FAQs for rapid support resolution.
+👉 [View Sample: Customer Support Response Template](Customer_Support_Response_Template.pdf)
+
 
 ### 2. Administrative Support & Operations
-- Calendar scheduling and daily agenda organization.
-- Drafting, formatting, and proofreading business correspondence and reports.
-- Data entry, record cleanup, and tracking via Google Sheets and Microsoft Excel.
+* Calendar scheduling and daily agenda organization.
+* Drafting, formatting, and proofreading business correspondence and reports.
+* Data entry, record cleanup, and tracking via Google Sheets and Microsoft Excel.
+👉 [View Sample: Weekly Assignment Schedule](WEEKLY%20ASSIGNMENT%20SCHEDULE_3.pdf)
+👉 [View Sample: Executive Meeting Summary & Action Items](Executive%20Meeting%20Summary%20%26%20Action%20Items.pdf)
+
 
 ### 3. AI & Technical Efficiency
 - Utilizing AI assistance for research, drafting communications, and task optimization.
