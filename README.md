@@ -12,7 +12,7 @@ Detail-oriented and reliable Virtual Assistant and Customer Support Specialist. 
 - Professional handling of customer inquiries and complaints.
 - Clear, empathetic written and verbal communication in English.
 - Drafting response templates and FAQs for rapid support resolution.
-👉 [View Sample: Customer Support Response Template](Customer_Support_Response_Template..pdf)
+⁠👉 [View Sample: Customer Support Response Template](Customer_Support_Response_Template..pdf⁠
 
 
 ### 2. Administrative Support & Operations
